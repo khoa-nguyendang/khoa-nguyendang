@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @khoa-nguyendang
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in autonomous, roburst , intelligent system
+- 🌱 I’m currently learning marchine learning
+- 💞️ I’m looking to collaborate on any fields,
+- 📫 How to reach me : khoa.nguyendang@outlook.com
 
-<!---
-khoa-nguyendang/khoa-nguyendang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
